@@ -11,6 +11,8 @@ A modern, customizable password generator built with React and Tailwind CSS. Gen
   - Numbers (0-9)
   - Symbols (!@#$%^&*()_+~`|}{[]:;?><,./-=)
 - **Real-time Generation**: Password updates automatically when settings change
+
+- 
 - **One-Click Copy**: Copy generated password to clipboard
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **Modern UI**: Clean, dark theme with orange accents
